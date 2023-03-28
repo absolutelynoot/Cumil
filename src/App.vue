@@ -22,7 +22,7 @@
     <ContactForm />
   </div>
 
-  <div class="d-inline">
+  <div class="d-none d-lg-inline">
     <div class="container text-center">
       <h1>Please scan the QR code using your mobile device to access cumil</h1>
     </div>
