@@ -1,10 +1,9 @@
 
 
 <template>
-  <div>
+  <div class="container">
     <Navbar />
     <div class="container"><Hero/></div>
-    <button type="button" class="btn btn-primary">Primary</button>
   </div>
 </template>
 
