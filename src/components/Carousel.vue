@@ -17,7 +17,7 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <video width="100%"  autoplay muted loop>
-                    <source src="../assets/Video/step1.MOV" type="video/mp4">
+                    <source src="../assets/Video/step1.mp4" type="video/mp4">
                     </video>
                 <div class="carousel-caption d-md-block">
                     <h5>Flour & Pea Protein Coating</h5>
@@ -25,7 +25,7 @@
             </div>
             <div class="carousel-item">
                 <video width="100%" autoplay muted loop>
-                    <source src="../assets/Video/step2.MOV" type="video/mp4">
+                    <source src="../assets/Video/step2.mp4" type="video/mp4">
                     </video>
                 <div class="carousel-caption d-md-block">
                     <h5>Plant Based Milk Dip</h5>
@@ -41,7 +41,7 @@
             </div>
             <div class="carousel-item ">
                 <video width="100%" autoplay muted>
-                    <source src="../assets/Video/step4.MOV" type="video/mp4">
+                    <source src="../assets/Video/step4.mp4" type="video/mp4">
                     </video>
                 <div class="carousel-caption d-md-block">
                     <h5>Deep Frying</h5>
@@ -49,7 +49,7 @@
             </div>
             <div class="carousel-item ">
                 <video width="100%" autoplay muted>
-                    <source src="../assets/Video/step5.MOV" type="video/mp4">
+                    <source src="../assets/Video/step5.mp4" type="video/mp4">
                     </video>
                 <div class="carousel-caption d-md-block">
                     <h5>Ready to be served!</h5>
@@ -57,7 +57,7 @@
             </div>
             <div class="carousel-item ">
                 <video width="100%" autoplay muted>
-                    <source src="../assets/Video/step6.MOV" type="video/mp4">
+                    <source src="../assets/Video/step6.mp4" type="video/mp4">
                     </video>
                 <div class="carousel-caption d-md-block">
                     <h5>Ready to be served!</h5>

@@ -1,8 +1,8 @@
 @import "bootstrap/scss/bootstrap";
 
-html{
-    font: montserrat;
-}
+body {
+    font-family: "Montserrat";
+  }
 
 .primary-color{
     background-color: #38B6FF;
@@ -15,4 +15,11 @@ nav{
 .logo{
     max-width: 100px;
 }
+
+.img1{
+    position:absolute;
+    top: 330px;
+    left: 30px;
+}
+
 
