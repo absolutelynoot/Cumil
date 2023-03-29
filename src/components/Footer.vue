@@ -7,17 +7,13 @@
             <li class="nav-item"><a href="#contact-us" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
         </ul>
         <div>
-            <ul class="nav col-md-4 justify-content-center list-unstyled d-flex">
-                <li class="ms-3"><a class="text-body-secondary" href="#"><svg class="bi" width="30" height="30">
-                            <use xlink:href="#twitter"></use>
-                        </svg></a></li>
-                <li class="ms-3"><a class="text-body-secondary" href="#"><svg class="bi" width="30" height="30">
-                            <use xlink:href="#instagram"></use>
-                        </svg></a></li>
-                <li class="ms-3"><a class="text-body-secondary" href="#"><font-awesome-icon icon="fa-brands fa-square-facebook" /></a></li>
+            <div class="text-center">Follow us on social media!</div>
+            <ul class="nav my-3 justify-content-center list-unstyled d-flex">
+                <li class="ms-3"><a class="text-body-secondary" href="https://www.tiktok.com/@cumil.sg?_t=8b2qYA7gUk6"><font-awesome-icon icon="fa-brands fa-tiktok" class="display-3"/></a></li>
+                <li class="ms-3"><a class="text-body-secondary" href="https://instagram.com/cumil.sg?igshid=YjNmNGQ3MDY="><font-awesome-icon icon="fa-brands fa-instagram" class="display-3" /></a></li>
             </ul>
         </div>
-        <p class="text-center text-body-secondary">© 2023 Company, Inc</p>
+        <p class="text-center text-body-secondary">© 2023 Cumil, See No Meet </p>
     </footer>
 </template>
 
