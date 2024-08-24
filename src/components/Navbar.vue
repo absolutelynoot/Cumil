@@ -3,7 +3,7 @@
         <nav class="navbar navbar-expand-lg bg-body-tertiary container">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
-                    <img src="../assets/cumil-logo.png" alt="Logo" 
+                    <img :src="'../assets/cumil-logo.png'" alt="Logo" 
                         class="d-inline-block align-text-top logo">
                 </a>
                 <button class="navbar-toggler me-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
