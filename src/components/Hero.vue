@@ -8,9 +8,9 @@
             <a class="text-body-secondary mx-3" href="https://www.tiktok.com/@cumil.sg?_t=8b2qYA7gUk6"><font-awesome-icon icon="fa-brands fa-tiktok" class="display-3"/></a>
             <a class="text-body-secondary mx-3" href="https://instagram.com/cumil.sg?igshid=YjNmNGQ3MDY="><font-awesome-icon icon="fa-brands fa-instagram" class="display-3" /></a>
         </div>
-        <img :src="'../assets/cumil.png'" class="img-fluid img1" alt="Example image"
+        <img src="../assets/cumil.png" class="img-fluid img1" alt="Example image"
                     width="700" height="900" loading="lazy">
-        <img :src="'../assets/cumil.png'" class="img-fluid img2" alt="Example image"
+        <img src="../assets/cumil.png" class="img-fluid img2" alt="Example image"
         width="700" height="900" loading="lazy">
     </div>
 </template>

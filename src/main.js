@@ -14,6 +14,8 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 /* import specific icons */
 import { faSquareFacebook, faSquareTwitter, faTiktok, faInstagram } from '@fortawesome/free-brands-svg-icons'
 
+import { inject } from "@vercel/analytics"
+
 library.add(
     faSquareFacebook,
     faSquareTwitter,
@@ -25,9 +27,8 @@ library.add(
 import * as bootstrap from 'bootstrap'
 
 
-
-
 createApp(App)
 .use(MotionPlugin)
+.use(inject)
 .component('font-awesome-icon', FontAwesomeIcon)
 .mount('#app')

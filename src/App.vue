@@ -5,8 +5,8 @@
       <Hero />
     </div>
     <div class="primary-color container-fluid text-center" id="what-is-cumil">
-      <img :src="'./assets/cumil-desktop.gif'" alt="What is cumil?" class="img-fluid d-none d-lg-inline" />
-      <img :src="'./assets/cumil-mobile.gif'" alt="What is cumil?" class="img-fluid d-inline d-lg-none" />
+      <img src="./assets/cumil-desktop.gif" alt="What is cumil?" class="img-fluid d-none d-lg-inline" />
+      <img src="./assets/cumil-mobile.gif" alt="What is cumil?" class="img-fluid d-inline d-lg-none" />
     </div>
     <div class="container-fluid text-center primary-color" id="cumil-made"  v-motion-fade-visible>
       <h1 class="text-center mb-5 text-bold text-white">How Cumil is made?</h1>
